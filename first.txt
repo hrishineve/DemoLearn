@@ -1,0 +1,5 @@
+This Is Second file but I have Written Name As First File 
+first file was index.html
+this is the file which i am going to hide
+from world
+by using git Ignore
